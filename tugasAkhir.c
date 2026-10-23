@@ -1,4 +1,4 @@
-/* kasus     : projek akhir semester
+/* kasus     : projek akhir semester1
    programer : MUHAMAD AZIZAN HAKIM 25076100
    deskripsi : -
 */
